@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/weili11/base/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##马云云的Github博客，记录一些学习的片段。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+[微博：马云云_理想青年](http://weibo.com/920802999 "马云云_理想青年的微博")
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[博客首页](http://markyun.github.io/ "马云云的博客")
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+[前端开发面试题 Front-end-Developer-Questions](https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions "最新前端开发面试题")  (不定期更新) 欢迎Star和提交issues
 
-- Bulleted
-- List
+爱骑行、爱摄影、爱阅读的理想青年。 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+![Stated Clearly Image](http://p1.bqimg.com/1949/52083bc7619100de.jpg)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/weili11/base/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+南京
